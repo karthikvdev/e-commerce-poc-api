@@ -2,7 +2,7 @@ import * as dotenv from "dotenv";
 dotenv.config();
 
 const swaggerDefinition = {
-  openapi: '1.0.0',
+  openapi: '3.0.0',
   info: {
     title: 'E-Commerce API',
     version: '1.0.0',
